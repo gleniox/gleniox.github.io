@@ -5,5 +5,5 @@
 - 🌱 I’m currently improving my knownledge on React.
 - 💞️ I’m looking to finish a personal side project.
 - 📫 How to reach me:
-- www.linkedin.com/in/gleniox
-- www.instagram.com/instacanuck/
+- Linkedin: [linkedin.com/in/gleniox](https://www.linkedin.com/in/gleniox)
+- Instagram: [instagram.com/instacanuck](https://www.instagram.com/instacanuck/)
