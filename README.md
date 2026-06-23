@@ -19,8 +19,8 @@ I've worked across government, aerospace, insurance, telecommunications, and ent
 ☕ Outside of coding, I enjoy coffee, photography, and exploring Canada.
 
 📫 Connect with me:
-- www.linkedin.com/in/gleniox
-- www.instagram.com/instacanuck/
+- [www.linkedin.com/in/gleniox](www.linkedin.com/in/gleniox)
+- [www.instagram.com/instacanuck/](www.instagram.com/instacanuck/)
 
 📝 Articles:
 - [Quick Steps For Deploying React Applications to Github Pages](https://medium.com/@gleniox/quick-steps-for-deploying-react-applications-to-github-pages-27eaf700e32)
