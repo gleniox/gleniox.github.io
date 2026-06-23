@@ -1,15 +1,27 @@
-## Welcome to My Page
+👋 Hi, I'm Glenio Alexandre Nogueira.
 
-Shhh… don’t tell anyone. This page is still "Under Construction". In the meantime, check out my info:
+Brazilian-Canadian Full-Stack Engineer and Technical Lead with 10+ years of experience building enterprise applications using .NET, React, Azure, SQL Server, and Power Platform.
 
-- 👋 Hi, I’m Glenio Alexandre Nogueira. Brazilian-Canadian. Software Developer.
-- 🌱 I’m investing time in sharpening my React and .NET C# expertise, revisiting core concepts and addressing gaps to continue evolving into the best software developer I can be.
-Continuous learning is key in our field, and I believe going back to the fundamentals is just as important as mastering advanced topics. This journey is helping me strengthen my foundation, expand my perspective, and push myself toward becoming a more well‑rounded professional.
-- 💞️ Excited to be wrapping up a personal side project that has been a great learning journey.
-- 👀 Interested in Coffee & Photography (and Canada Eh!).
-- 📫 How to reach me:
-- Linkedin [linkedin.com/in/gleniox](https://www.linkedin.com/in/gleniox)
-- Instagram [instagram.com/instacanuck](https://www.instagram.com/instacanuck/)
--  👀 Interesting links:
+I've worked across government, aerospace, insurance, telecommunications, and enterprise software, helping organizations modernize legacy systems, automate business processes, and deliver scalable cloud-based solutions.
+
+🌱 Currently deepening my expertise in modern .NET architecture, React, TypeScript, Azure, system design, and software architecture. I believe continuous learning and strong fundamentals are key to building great software.
+
+🚀 Building personal projects and exploring modern development practices to continue growing as an engineer.
+
+💻 Tech Stack
+• C# / .NET
+• React / TypeScript
+• Azure
+• SQL Server
+• Power Platform
+• GitHub & Azure DevOps
+
+☕ Outside of coding, I enjoy coffee, photography, and exploring Canada.
+
+📫 Connect with me:
+- www.linkedin.com/in/gleniox
+- www.instagram.com/instacanuck/
+
+📝 Articles:
 - [Quick Steps For Deploying React Applications to Github Pages](https://medium.com/@gleniox/quick-steps-for-deploying-react-applications-to-github-pages-27eaf700e32)
 - [How to Use Multiple GitHub Accounts on a Single Machine](https://medium.com/@gleniox/how-to-use-multiple-github-accounts-on-a-single-machine-eb1128abd35d)
